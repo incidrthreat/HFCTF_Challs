@@ -57,7 +57,7 @@ FLAG:
 
 SETUP:
 ```
-Setup for new PCAP of only the ICMP traffic:
+New PCAP of only the ICMP traffic:
     Files can be found in the build folder.
     - Run server.py  
     - Start wireshark. 
@@ -67,6 +67,3 @@ Setup for new PCAP of only the ICMP traffic:
                 python3 client.py --host "127.0.0.1" --file .\secret.txt
 ```
 
-Hints:
-- -10pts - STL stands for stereolithography and is commonly used to render 3d objects.  Can be seen using a CAD program or 3d printer software.
-- -25pts - The closer you look, the more you see.
