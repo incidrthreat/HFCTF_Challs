@@ -1,16 +1,14 @@
 Narrative:
-Data was captured ensuring two devices could communicate.  During the verification 
-process our help desk technician noticed some strange events. Help our technician 
-and find the data in this transmission.
+- Data was captured ensuring proper communication.  During this process our help desk technician noticed some strange events. They need your help to identify the traffic.
 
 POINTS:
-125
+- 125
 
 WHAT FILES GIVEN TO PLAYERS:
-LinT.pcap
+- LinT.pcap
 
 FLAG:
-HF-f11d7527aec56c69f157124c71ff5153
+- `HF-f11d7527aec56c69f157124c71ff5153`
 
 Possible hints:
 - -25pts - There are 4 parts and some contain basic string/char encodings.
