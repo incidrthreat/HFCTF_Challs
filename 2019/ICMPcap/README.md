@@ -1,9 +1,8 @@
 Narrative:
-    There is an unusually high amount of activity on a linux server.  Network analysis was cut down to 
-    these two hosts. Help us find the secure data pulled from the server.
+- There is an unusually high amount of activity on one of our Linux servers.  Network analysis was cut down to these two hosts. Help us find the leaked data.
 
 Notes to organizers:
-    Only give players the narrative above and the dataeverywhere.pcapng
+- Only give players the narrative above and the Between2Hosts.pcap
 
 Solve/walkthrough/guide: 
     The pcap is a capture of FTP, SSH, and ICMP traffic. 
@@ -52,10 +51,10 @@ Solve/walkthrough/guide:
 
 
 FLAG:
-    HF-2b4e41a1691ca72542f84e94fe695d06
+- `HF-2b4e41a1691ca72542f84e94fe695d06`
 
 
-SETUP:
+SETUP if new flag is needed:
 ```
 New PCAP of only the ICMP traffic:
     Files can be found in the build folder.
