@@ -7,11 +7,11 @@ POINTS:
 125
 
 WHAT FILES GIVEN TO PLAYERS:
-challenge.pcap
+LinT.pcap
 
 FLAG:
 HF-f11d7527aec56c69f157124c71ff5153
 
 Possible hints:
--25pts - There are 4 parts and some contain basic string/char encodings.
--25pts - Look closely as not all parts are PNGs
+- -25pts - There are 4 parts and some contain basic string/char encodings.
+- -25pts - Look closely as not all parts are PNGs
